@@ -27,7 +27,7 @@
   <p align="center">
     This is part of the Forms Project in The Odin Project’s Ruby on Rails Curriculum.  
     <br />
-    <a href="https://github.com/raheebwa/bare-metal-forms/blob/master/README.md"><strong>Explore the docs �</strong></a>
+    <a href="https://github.com/raheebwa/bare-metal-forms/blob/master/README.md"><strong>Explore the docs 📚</strong></a>
     <br />
     <br />
     🖊️
