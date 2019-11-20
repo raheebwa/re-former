@@ -20,8 +20,11 @@
     <img src="doc/microverse.png" alt="Logo" width="80" height="80">
   </a>
 
+  <h2 align="center">
+    Course: Ruby On Rails
+  </h2>
   <h3 align="center">
-    Project 1: Bare Metal Forms and Helpers
+    Project 2: Bare Metal Forms and Helpers
   </h3>
 
   <p align="center">
@@ -42,8 +45,6 @@
 # Bare Metal Forms and Helpers
 
 Build some forms, both using nearly-pure HTML and then graduating to using the helper methods that Rails provides.
-
-[live version]()
 
 ![create](doc/create.png)
 
