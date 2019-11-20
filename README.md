@@ -39,9 +39,9 @@
   </p>
 </p>
 
-# Getting Your Feet Wet
+# Bare Metal Forms and Helpers
 
-Implement a version of Ruby’s enumerable methods.
+Build some forms, both using nearly-pure HTML and then graduating to using the helper methods that Rails provides.
 
 [live version](https://toy-app-arir.herokuapp.com)
 
@@ -58,6 +58,7 @@ Rubocop:
 - Using different databases for development (sqlite3) and production (postgres)
 - Followed the tutorial
 - Tests made with [`RSpec`](https://relishapp.com/rspec/)
+- Railsy-er Forms with `#form_for`
 
 # Built With
 
@@ -83,7 +84,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - [Microverse](https://www.microverse.org/)
 - [The Odin Project](https://www.theodinproject.com/)
-- [Readme header](https://github.com/collinsugwu/Microverse201-Enumerable-Methods)
+- [Readme header author](https://github.com/collinsugwu/Microverse201-Enumerable-Methods)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
