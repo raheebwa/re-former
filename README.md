@@ -43,9 +43,11 @@
 
 Build some forms, both using nearly-pure HTML and then graduating to using the helper methods that Rails provides.
 
-[live version](https://toy-app-arir.herokuapp.com)
+[live version]()
 
-![live](doc/)
+![create](doc/create.png)
+
+![edit](doc/edit.png)
 
 # Validations
 
